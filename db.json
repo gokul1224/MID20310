@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "",
+        "PN": "",
+        "MF": ""
+      },
+      "MID": "MID20310",
+      "MD": "",
+      "MT": "",
+      "MQNT": 0,
+      "MQATG": "",
+      "ML": "",
+      "MDS": "https://www.google.com",
+      "MR": "https://images.pexels.com/photos/20787/pexels-photo.jpg?cs=srgb&dl=pexels-kmerriman-20787.jpg&fm=jpg",
+      "MaterialImages": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGMsYKgBqAdwH2SCWHQ0mH24vurOr1cjVsA&s"
+      ]
+    }
+  ]
+}
